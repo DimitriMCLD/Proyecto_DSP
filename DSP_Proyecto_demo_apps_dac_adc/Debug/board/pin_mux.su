@@ -1,0 +1,3 @@
+C:\Users\DimiX\Documents\MCUXpressoIDE_11.7.0_9198\Proyecto_DSP\DSP_Proyecto_demo_apps_dac_adc\drivers/fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+C:\Users\DimiX\Documents\MCUXpressoIDE_11.7.0_9198\Proyecto_DSP\DSP_Proyecto_demo_apps_dac_adc\drivers/fsl_port.h:321:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:67:6:BOARD_InitPins	8	static

@@ -1,0 +1,3 @@
+../drivers/SampleFilter.c:55:6:SampleFilter_init	24	static
+../drivers/SampleFilter.c:62:6:SampleFilter_put	24	static
+../drivers/SampleFilter.c:68:8:SampleFilter_get	32	static
